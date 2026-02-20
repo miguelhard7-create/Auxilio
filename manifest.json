@@ -1,0 +1,16 @@
+{
+  "name": "AUXILIO VIP MJ",
+  "short_name": "VIP MJ",
+  "description": "Painel de Otimização e Performance VIP",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#ff0000",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/771/771210.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
